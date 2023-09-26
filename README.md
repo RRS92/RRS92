@@ -1,4 +1,4 @@
-### Oiii eu me chamo Rebson Ramalho, estudante de programação ! 💸💸💸
+### Oi eu me chamo Rebson Ramalho, estudante de programação ! 💸💸💸
 
 <div align="center">
   <a href="https://github.com/RRS92">
