@@ -22,5 +22,5 @@
   
 </div>
 
-![snake gif](https://github.com/RRS92/RRS92/blob/output/github-contribution-grid-snake.svg)
+
 
