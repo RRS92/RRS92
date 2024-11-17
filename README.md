@@ -1,4 +1,4 @@
-### Oi eu me chamo Rebson Ramalho, e sou estudante de programação pelo IFPE - campus Palmares! 
+### Oi eu me chamo Rebson Ramalho e sou estudante de Analise e Desenvolvimento de Sistemas pelo IFPE - campus Palmares! 
 
 <div align="center">
   <a href="https://github.com/RRS92">
